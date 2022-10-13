@@ -1,0 +1,4 @@
+{
+  "extends": "@rbeiro-ui/ts-config/base.json",
+  "include": ["src", "themes/ignite/colors", "themes"],
+}
