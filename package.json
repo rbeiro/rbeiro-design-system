@@ -5,9 +5,13 @@
   ],
   "scripts": {
     "dev": "turbo run dev --parallel",
-    "build": "turbo run build"
+    "build": "turbo run build",
+    "changeset": "changeset",
+    "version-packages": "changeset version",
+    "release": "turbo run build --filter=@rbeiro-ui/docs && changeset publish"
   },
   "devDependencies": {
+    "@changesets/cli": "^2.25.0",
     "latest": "^0.2.0",
     "turbo": "^1.5.6"
   }
