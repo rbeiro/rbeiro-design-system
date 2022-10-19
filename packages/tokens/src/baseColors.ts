@@ -11,4 +11,6 @@ export const baseColors = {
   gray900: "#121214",
 
   black: "#000",
+
+  test: "#fff",
 };
