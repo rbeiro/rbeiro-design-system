@@ -1,6 +1,6 @@
 export const memberflixColors = {
-  ignite300: "#00B37E",
-  ignite500: "#00875F",
-  ignite700: "#015F43",
-  ignite900: "#00291D",
+  flix300: "#00B37E",
+  flix500: "#00875F",
+  flix700: "#015F43",
+  flix900: "#00291D",
 };
