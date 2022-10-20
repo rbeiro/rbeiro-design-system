@@ -1,5 +1,11 @@
 # @rbeiro-ui/tokens
 
+## 1.1.0
+
+### Minor Changes
+
+- Fixed Memberflix's theme export
+
 ## 2.0.0
 
 ### Major Changes
