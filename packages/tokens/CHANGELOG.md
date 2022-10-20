@@ -1,7 +1,7 @@
 # @rbeiro-ui/tokens
 
-## 1.1.0
+## 1.2.0
 
 ### Minor Changes
 
-- Add new test color
+- Add new theme for Memberflix
