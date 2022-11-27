@@ -1,6 +1,4 @@
-export * from "./baseColors";
-export * from "../themes";
-
+export * from "./lightThemeColors";
 export * from "./font-sizes";
 export * from "./font-weights";
 export * from "./fonts";

@@ -1,5 +1,23 @@
 # @rbeiro-ui/tokens
 
+## 1.2.3
+
+### Patch Changes
+
+- change
+
+## 1.2.1
+
+### Patch Changes
+
+- Fixing publication bug
+
+## 1.2.0
+
+### Minor Changes
+
+- Updated theme styling logic and fixed layout display issues at Storybook
+
 ## 1.1.0
 
 ### Minor Changes

@@ -8,22 +8,22 @@ import {
   space,
 } from "@rbeiro-ui/tokens";
 
-import themes from "@rbeiro-ui/tokens/themes";
 import { createStitches, defaultThemeMap } from "@stitches/react";
 
-const themesColors = Object.entries(themes).reduce((acc, [key, theme]) => {
-  return {
-    ...acc,
-    ...theme.colors,
-  };
-}, {});
+// import themes from "@rbeiro-ui/tokens/themes";
+// const themesColors = Object.entries(themes).reduce((acc, [key, theme]) => {
+//   return {
+//     ...acc,
+//     ...theme.colors,
+//   };
+// }, {});
 
-const themesFonts = Object.entries(themes).reduce((acc, [key, theme]) => {
-  return {
-    ...acc,
-    ...theme.fonts,
-  };
-}, {});
+// const themesFonts = Object.entries(themes).reduce((acc, [key, theme]) => {
+//   return {
+//     ...acc,
+//     ...theme.fonts,
+//   };
+// }, {});
 
 export const {
   styled,
@@ -44,11 +44,9 @@ export const {
   theme: {
     colors: {
       ...baseColors,
-      ...themesColors,
     },
     fonts: {
       ...fonts,
-      ...themesFonts,
     },
     fontSizes,
     fontWeights,

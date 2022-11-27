@@ -1,0 +1,15 @@
+:root {
+  --fontSizes-xxs: 0.625rem;
+  --fontSizes-xs: 0.75rem;
+  --fontSizes-sm: 0.875rem;
+  --fontSizes-md: 1rem;
+  --fontSizes-lg: 1.125rem;
+  --fontSizes-xl: 1.25rem;
+  --fontSizes-2xl: 1.5rem;
+  --fontSizes-4xl: 2rem;
+  --fontSizes-5xl: 2.25rem;
+  --fontSizes-6xl: 3rem;
+  --fontSizes-7xl: 4rem;
+  --fontSizes-8xl: 4.5rem;
+  --fontSizes-9xl: 6rem;
+};
