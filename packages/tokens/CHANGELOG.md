@@ -1,5 +1,17 @@
 # @rbeiro-ui/tokens
 
+## 2.0.1
+
+### Patch Changes
+
+- feature: Added new tokens and a CSS export to all tokens
+
+## 1.2.8
+
+### Patch Changes
+
+- fix: Changed CSS folder location so it can be imported
+
 ## 1.2.7
 
 ### Patch Changes

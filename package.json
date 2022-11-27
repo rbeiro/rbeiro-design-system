@@ -4,8 +4,8 @@
     "packages/*"
   ],
   "scripts": {
-    "dev": "turbo run dev --parallel",
-    "build": "turbo run build",
+    "dev": "node createSingleCssTokenFile.js && turbo run dev --parallel",
+    "build": "node createSingleCssTokenFile.js && turbo run build",
     "changeset": "changeset",
     "version-packages": "changeset version",
     "release": "turbo run build --filter=@rbeiro-ui/docs && changeset publish"

@@ -1,0 +1,20 @@
+{
+  "name": "@rbeiro-ui/stitches-config",
+  "version": "1.1.1",
+  "description": "",
+  "main": "dist/stitches.js",
+  "module": "dist/stitches.mjs",
+  "types": "dist/stitches.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsup stitches.ts --format esm,cjs --dts",
+    "dev": "tsup stitches.ts --format esm,cjs --dts --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@rbeiro-ui/tokens": "*",
+    "@stitches/react": "^1.2.8",
+    "tsup": "^6.3.0"
+  }
+}
