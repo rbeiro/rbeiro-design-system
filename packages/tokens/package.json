@@ -1,6 +1,6 @@
 {
   "name": "@rbeiro-ui/tokens",
-  "version": "1.2.3",
+  "version": "1.2.7",
   "description": "",
   "main": "dist/index.js",
   "module": "dist/index.mjs",

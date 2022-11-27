@@ -1,5 +1,29 @@
 # @rbeiro-ui/tokens
 
+## 1.2.7
+
+### Patch Changes
+
+- .
+
+## 1.2.6
+
+### Patch Changes
+
+- .
+
+## 1.2.5
+
+### Patch Changes
+
+- added more space tokens
+
+## 1.2.4
+
+### Patch Changes
+
+- space tokens change
+
 ## 1.2.3
 
 ### Patch Changes

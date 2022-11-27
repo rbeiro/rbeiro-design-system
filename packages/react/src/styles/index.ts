@@ -1,7 +1,6 @@
 import {
   fontSizes,
   fontWeights,
-  baseColors,
   fonts,
   lineHeights,
   radii,
@@ -42,9 +41,6 @@ export const {
   },
 
   theme: {
-    colors: {
-      ...baseColors,
-    },
     fonts: {
       ...fonts,
     },
